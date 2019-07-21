@@ -1,0 +1,48 @@
+[submodule "rk/u-boot"]
+	path = rk/u-boot
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/rkst"]
+	path = rk/rkst
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/vendor/widevine"]
+	path = rk/platform/vendor/widevine
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/vendor/rockchip/common"]
+	path = rk/platform/vendor/rockchip/common
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/vendor/google"]
+	path = rk/platform/vendor/google
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/packages/system/displayd"]
+	path = rk/platform/packages/system/displayd
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/external/wlan_loader"]
+	path = rk/platform/external/wlan_loader
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/external/rp-pppoe"]
+	path = rk/platform/external/rp-pppoe
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/external/rk-pcba-test"]
+	path = rk/platform/external/rk-pcba-test
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/external/mmc-utils"]
+	path = rk/platform/external/mmc-utils
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/external/mac"]
+	path = rk/platform/external/mac
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/external/io"]
+	path = rk/platform/external/io
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/platform/external/ffmpeg"]
+	path = rk/platform/external/ffmpeg
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/hardware/rk29/audio"]
+	path = rk/hardware/rk29/audio
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/hardware/rk29/camera"]
+	path = rk/hardware/rk29/camera
+	url = https://github.com/zefram22/Proscan-PLT7650G
+[submodule "rk/hardware/rk29/gps"]
+	path = rk/hardware/rk29/gps
+	url = https://github.com/zefram22/Proscan-PLT7650G
